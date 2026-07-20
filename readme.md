@@ -61,4 +61,4 @@ Tudo é salvo em `results/accuracy-reports/`:
 
 ## Observação sobre o artigo
 
-O notebook usa como referência o artigo **MATH-PT** (ver seção acima). Um link para `aclanthology.org/2025.findings-emnlp.3` foi cogitado inicialmente para essa comparação, mas aponta para um artigo diferente (sobre formatos de prompt em tradução automática) — sem relação com este benchmark. Isso está documentado na própria Parte 4 do notebook.
+O notebook usa como referência o artigo **MATH-PT** (ver seção acima). Um link para `(https://aclanthology.org/2026.propor-1.102.pdf)` .
