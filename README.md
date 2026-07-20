@@ -1,7 +1,6 @@
 # README
 
-Este arquivo descreve **apenas** o notebook `kit-reproducao-colab.ipynb` — o que ele contém e como executá-lo. Para os demais notebooks/scripts do repositório, ver `README.md`.
-
+Este arquivo descreve **apenas** o notebook `kit-reproducao-colab.ipynb` — o que ele contém e como executá-lo.
 ## O que é
 
 `kit-reproducao-colab.ipynb` reúne, em um único notebook autocontido, todo o pipeline deste repositório para reproduzir e comparar com o artigo **MATH-PT: A Math Reasoning Benchmark for European and Brazilian Portuguese** (Teixeira et al.; dataset em [HuggingFace](https://huggingface.co/datasets/tiagoteixeira03/MATH-PT); repositório oficial [deep-spin/math-benchmark](https://github.com/deep-spin/math-benchmark)):
