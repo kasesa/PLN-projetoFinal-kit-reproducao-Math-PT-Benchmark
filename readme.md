@@ -1,4 +1,4 @@
-# readmecolab
+# readme
 
 Este arquivo descreve **apenas** o notebook `kit-reproducao-colab.ipynb` — o que ele contém e como executá-lo. Para os demais notebooks/scripts do repositório, ver `README.md`.
 
